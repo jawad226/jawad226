@@ -81,5 +81,5 @@ I love turning ideas into reality using the latest technologies. 🚀
 ## 🤝 Let's Connect!  
 
 - 💼 LinkedIn: [linkedin.com/in/jawad-jameel](https://www.linkedin.com/in/jawad-jameel/)  
-- 🌐 Portfolio: [your-portfolio-link.com]([https://your-portfolio-link.com](https://jawadj.vercel.app/))  
+- 🌐 Portfolio: https://jawadj.vercel.app/
 - 📧 Email: jawadc226@gmail.com
