@@ -27,19 +27,44 @@ I love turning ideas into reality using the latest technologies. 🚀
 
 ---
 
-## 🚀 Tech Stack Icons  
+## 🚀 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+<table>
+  <tr>
+    <th>💻 Frontend</th>
+    <th>⚙️ Backend</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=40" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&logoWidth=40" alt="Next.js" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&logoWidth=40" alt="Node.js" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&logoWidth=40" alt="NestJS" />
+    </td>
+  </tr>
+  <tr>
+    <th>🗄️ Database</th>
+    <th>🛠️ Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=40" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=40" alt="PostgreSQL" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=40" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=40" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=40" alt="Postman" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -56,5 +81,5 @@ I love turning ideas into reality using the latest technologies. 🚀
 ## 🤝 Let's Connect!  
 
 - 💼 LinkedIn: [linkedin.com/in/jawad-jameel](https://www.linkedin.com/in/jawad-jameel/)  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 📧 Email: jawadjameel@example.com  
+- 🌐 Portfolio: [your-portfolio-link.com]([https://your-portfolio-link.com](https://jawadj.vercel.app/))  
+- 📧 Email: jawadc226@gmail.com
